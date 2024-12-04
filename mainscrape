@@ -1,0 +1,14 @@
+{
+    "dateFrom": "01/01/2024",
+    "maxArticlesPerCrawl": 100,
+    "onlyNewArticlesPerDomain": true,
+    "startUrls": [
+        {
+            "url": "http://foxnews.com",
+            "method": "GET"
+        }
+    ],
+    "filters": {
+        "keyword": "Marx"
+    }
+}
